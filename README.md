@@ -52,4 +52,12 @@ Para optimizaciones avanzadas de rastreabilidad bajo Estandares Web y Protocolo 
 
 ***
 
+## Enlaces Útiles
+
+* **Portal Corporativo:** https://ag.tavardt.com/es/
+* **Suite de Diagnósticos:** https://tools.tavardt.com/es/
+* **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
 © 2026 TAVARDT. Todos los derechos reservados.
