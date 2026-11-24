@@ -5,7 +5,7 @@
 
 Auditoria de archivos robots.txt para prevenir desindexaciones accidentales, gestionar rastreadores de busqueda e IA y verificar la sintaxis de directivas.
 
-Desarrollado y mantenido por el area de rastreo perimetral e indexacion de **TAVARDT Espana**.
+Desarrollado y mantenido por el area de rastreo perimetral e indexacion de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python robots_validator.py https://ejemplo.es -json
 Para auditorias directas de archivos robots.txt y simulaciones de rastreo:
 
 * **Validador de Robots.txt Oficial**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Consultoria en Gobernanza de Rastreo y SEO
 
-Para optimizaciones avanzadas de rastreabilidad bajo Estandares Web y Protocolo de Exclusion de Robots, contacte a **TAVARDT Espana**.
+Para optimizaciones avanzadas de rastreabilidad bajo Estandares Web y Protocolo de Exclusion de Robots, contacte a **TAVARDT**.
 
 ***
 
